@@ -1,3 +1,3 @@
-const withTM = require('next-transpile-modules')(['design-system'])
+const withTM = require('next-transpile-modules')(['@elboqueronpaco/design-system'])
 
 module.exports = withTM({})
